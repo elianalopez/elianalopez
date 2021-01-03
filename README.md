@@ -2,11 +2,6 @@
 
 My name is Eliana Lopez and I am a student studying mathematics, however I enjoy the mathematical applications behind programming!
 
-## Skills 💻:
-* Python
-* SQL 
-* Java
-* C++
 
 ## Find me on the web🌎:
 <a href="https://www.linkedin.com/in/eliana-idalys-lopez">LinkedIn 💼</a>
