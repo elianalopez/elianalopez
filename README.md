@@ -2,6 +2,9 @@
 
 My name is Eliana Lopez
 
+## Find me on the web🌎:
+<a href="https://www.linkedin.com/in/eliana-idalys-lopez">LinkedIn 💼</a>
+
 <!--
 **elianalopez/elianalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
