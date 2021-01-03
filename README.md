@@ -5,6 +5,8 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 ## Find me on the web🌎:
 
+<a href = "mailto: eliana.idalys.lopez@gmail.com">Email 💌</a>
+
 <a href="https://www.linkedin.com/in/eliana-idalys-lopez">LinkedIn 💼</a>
 
 <a href="https://twitter.com/elianaIopez">Twitter 🐣</a>
