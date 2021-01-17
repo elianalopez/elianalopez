@@ -4,7 +4,7 @@
 
 My name is Eliana Lopez and I am a student studying mathematics, however I enjoy the mathematical applications behind programming!
 
-## Currently Working on 
+## Currently Working on 💻 
 
 * Data Structures Study Guide in Python | <a href = "https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python"> GitHub</a>
 
@@ -12,7 +12,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 * *secret* 🤫
 
-## Finished Works
+## Finished Works ✔️
 
 * **Raspi Car Project** 🍓🏎️ | <a href = "https://github.com/elianalopez/RaspiCar-Project"> GitHub</a> 
   * Redesigned an RC Car toy car with the Raspberry Pi  and a Motor Drive Board Module to control motors via a Python program
@@ -23,7 +23,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * A Semester long Repository on the Java Programming Language
   * <a href = "https://github.com/elianalopez/Java#final-project--java-tic-tac-toe">Final Project</a> is a tic-tac-toe game that functions in the command line
 
-## Find me on the web🌎:
+## Find me on the web 🌎
 
 <a href = "mailto: eliana.idalys.lopez@gmail.com">Email 💌</a>
 
