@@ -25,6 +25,9 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   
 ### Programming Languages & Skills
 &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/130px-Python-logo-notext.svg.png" width="80" height = "80" > &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="60" height = "100"> <img src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg"  width="60" height = "60">
+
+#### Currently Learning
+
 ## Find me on the web 🌎
 
 <a href = "mailto: eliana.idalys.lopez@gmail.com">Email 💌</a>
