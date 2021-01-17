@@ -6,7 +6,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 ### Currently Working On 🚀
 
-* Data Structures Study Guide in Python 📄✏️ | <a href = "https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python"> GitHub</a>
+* Data Structures Study Guide in Python 📝 | <a href = "https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python"> GitHub</a>
 
 * Website Portfolio 💻
 
