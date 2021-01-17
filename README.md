@@ -1,6 +1,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQH6pqsFCeEVZg/profile-displaybackgroundimage-shrink_350_1400/0/1610574061529?e=1616630400&v=beta&t=tLfR_vORJFyyLFhkZoxZPHXu-OYENdHs702oIHyjh5M" width="100%">
 
-### Hi there 👋
+## Hi there 👋
 
 My name is Eliana Lopez and I am a student studying mathematics, however I enjoy the mathematical applications behind programming!
 
