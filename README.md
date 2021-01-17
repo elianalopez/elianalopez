@@ -8,7 +8,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 * Data Structures Study Guide in Python | <a href = "https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python"> GitHub</a>
 
-* Website Portoflio
+* Website Portfolio
 
 * *secret* 🤫
 
