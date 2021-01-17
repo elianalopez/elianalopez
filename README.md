@@ -2,6 +2,15 @@
 
 My name is Eliana Lopez and I am a student studying mathematics, however I enjoy the mathematical applications behind programming!
 
+## Currently Working on 
+
+* Data Structures Study Guide in Python
+
+## Finished Works
+
+* Raspi Car Project 🍓🏎️
+ - 
+* Programming Languages Java Repository ☕
 
 ## Find me on the web🌎:
 
