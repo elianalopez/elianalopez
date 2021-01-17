@@ -24,8 +24,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * <a href = "https://github.com/elianalopez/Java#final-project--java-tic-tac-toe">Final Project</a> is a tic-tac-toe game that functions in the command line
   
 ### Programming Languages & Skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/130px-Python-logo-notext.svg.png" >
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/130px-Python-logo-notext.svg.png" > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" >
 
 ## Find me on the web 🌎
 
