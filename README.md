@@ -28,6 +28,10 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 #### Currently Learning
 
+&nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" width="80" height = "80" >
+
+
+
 ## Find me on the web 🌎
 
 <a href = "mailto: eliana.idalys.lopez@gmail.com">Email 💌</a>
