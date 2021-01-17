@@ -28,7 +28,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 #### Currently Learning
 
-&nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" width="70" height = "80" > &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2" width="80" height = "90" >
+&nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" width="70" height = "80" > &nbsp;  &nbsp; &nbsp;  &nbsp; <img src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2" width="80" height = "90" >
 
 
 
