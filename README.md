@@ -10,7 +10,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 * Website Portfolio 💻
 
-* Web Scrapping Projects with Python | <a href = "https://github.com/elianalopez/Web-Scraping-Projects-with-Python"> GitHub</a>
+* Web Scrapping Projects with Python 📜⛏️| <a href = "https://github.com/elianalopez/Web-Scraping-Projects-with-Python"> GitHub</a>
 
 * *secret* 🤫
 
