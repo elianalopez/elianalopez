@@ -27,7 +27,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   
     **The game had the following features:**
     * Multiple Game Modes (Single Player, Two Player, Spectator)
-    * Instructions
+    * Instructions screen is an option within the title screen
     * Players were given custom names
     * Keep track of previous winners based off given names
     * Wins and Ties were part of the functionality of the tic-tac-toe game
