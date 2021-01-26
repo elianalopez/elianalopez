@@ -25,7 +25,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * A Semester long Repository on the Java Programming Language
   * **<a href = "https://github.com/elianalopez/Java#final-project--java-tic-tac-toe">Final Project</a>** is a tic-tac-toe game that functions in the command line
   
-    **Featured of the game**
+    **The game had the following features:**
     * Multiple Game Modes (Single Player, Two Player, Spectator)
     * Instructions
     * Players were given custom names
