@@ -24,6 +24,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 * **Programming Languages Java Repository** ☕ | <a href = "https://github.com/elianalopez/Java"> GitHub</a> 
   * A Semester long Repository on the Java Programming Language
   * **<a href = "https://github.com/elianalopez/Java#final-project--java-tic-tac-toe">Final Project</a>** is a tic-tac-toe game that functions in the command line
+  
     **Featured of the game**
     * Multiple Game Modes (Single Player, Two Player, Spectator)
     * Instructions
