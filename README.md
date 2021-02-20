@@ -55,7 +55,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 <a href="https://twitter.com/elianaIopez">Twitter 🐣</a>
 
 ## Just for fun!
-![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=solarized&light_icons=true)
+![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
 
 <!--
 **elianalopez/elianalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
