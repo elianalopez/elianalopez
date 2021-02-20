@@ -54,7 +54,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 <a href="https://twitter.com/elianaIopez">Twitter 🐣</a>
 
-
+## Just for fun!
 ![Eliana's github stats](https://github-readme-stats.vercel.app/api?username=elianalopez)
 
 <!--
