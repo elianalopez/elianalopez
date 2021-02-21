@@ -56,8 +56,8 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 ## Just for fun!
 <details>
-<summary>::zap Github Stats</summary>
-![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
+<summary>:zap: Github Stats</summary>
+ <img src=" https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true" width="50" height = "55" > 
 </details>
 
 <!--
@@ -73,4 +73,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
+
+
 -->
