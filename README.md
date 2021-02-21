@@ -56,7 +56,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 ## Just for fun!
 <details>
-<summary>click to expand</summary>
+<summary>::zap Github Stats</summary>
 ![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
 </details>
 
