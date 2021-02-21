@@ -37,7 +37,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
     
 ### Programming Languages & Skills
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="35" height = "50"> &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="40" height = "40"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="50" height="50"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="43" height = "60"> &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="60" height = "60"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="60" height="60"> 
 
 
 
