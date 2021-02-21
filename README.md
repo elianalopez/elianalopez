@@ -39,10 +39,9 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 ### Programming Languages & Skills
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="35" height = "60"> &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="60" height = "60"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="60" height="60"> 
 
+##### Currently Learning
 
-#### Currently Learning
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" width="60" height = "60" > &nbsp; <img src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2" width="60" height = "60" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" width="50" height = "60" > &nbsp; <img src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2" width="60" height = "60" >
 
 
 
