@@ -40,8 +40,6 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32" height="32">
 
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-
 &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/130px-Python-logo-notext.svg.png" width="60" height = "60" >  &nbsp; &nbsp;  &nbsp;  &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="50" height = "90">   &nbsp; &nbsp;  &nbsp;  &nbsp;  <img src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png"  width="70" height = "75"> &nbsp; &nbsp;  &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="70" height = "70">
 
 #### Currently Learning
