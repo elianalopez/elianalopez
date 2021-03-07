@@ -21,6 +21,13 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * Launched a webserver user interface that controls the car motors and live streams the PiCam with the Python Flask library 
   * Integrated languages such as Python 3.0, HTML, CSS, and Raspberry Pi for this project 
   
+
+* **Instapup - Instagram Puppy Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Instapup"> GitHub</a> 
+  * Continuously webscrapes photos of dogs from Google Images every 300 seconds
+  * Utilized the **instabot** library to connect and randomly choose a photo of a dog to upload
+  * Created a cleaner function to remove photos that were choosen by the instabot every 300 seconds
+  
+  
 * **Programming Languages Java Repository** ☕ | <a href = "https://github.com/elianalopez/Java"> GitHub</a> 
   * A Semester long Repository on the Java Programming Language
   * **<a href = "https://github.com/elianalopez/Java#final-project--java-tic-tac-toe">Final Project</a>** is a tic-tac-toe game that functions in the command line
