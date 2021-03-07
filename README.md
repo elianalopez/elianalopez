@@ -25,6 +25,11 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * Utilized the **Beautiful Soup** library to continuosly webscrapes photos of dogs from Google Images every 300 seconds
   * Utilized the **instabot** library to connect and randomly choose a photo of a dog to upload
   * Created a cleaner function to remove photos that were choosen by the instabot every 300 seconds
+
+* **Markov Chain Text Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Markov-Chains-Text-Generator"> GitHub</a> 
+  * Designed a random text generator that reads a given text-file and shuffles words by mimicking a Markov Chain Algorithm
+  * Formatted the first word in the phrase to always be capitalized and the last structure to end with punctuation.
+  * Implemented a speaking function for the randomly generated text after each shuffled phrase
   
 * **Programming Languages Java Repository** ☕ | <a href = "https://github.com/elianalopez/Java"> GitHub</a> 
   * A Semester long Repository on the Java Programming Language
