@@ -54,7 +54,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="50" height = "55" > &nbsp; <img src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2" width="60" height = "60" >
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact)](https://github.com/elianalopez/github-readme-stats)
 
 ## Find me on the web 🌎
 
