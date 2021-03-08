@@ -22,9 +22,9 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * Integrated languages such as Python 3.0, HTML, CSS, and Raspberry Pi for this project 
 
 * **Instapup - The Instagram Puppy Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Instapup"> GitHub</a> 
-  * Utilized the **Beautiful Soup** library to continuosly webscrapes photos of dogs from Google Images every 300 seconds
+  * Utilized the **Beautiful Soup** library to continuously webscrape photos of dogs from Google Images every 300 seconds
   * Utilized the **instabot** library to connect and randomly choose a photo of a dog to upload
-  * Created a cleaner function to remove photos that were choosen by the instabot every 300 seconds
+  * Created a cleaner function to remove photos that were chosen by the instabot every 300 seconds
 
 * **Markov Chain Text Generator** 🔗 | <a href = "https://github.com/elianalopez/Markov-Chains-Text-Generator"> GitHub</a> 
   * Designed a random text generator that reads a given text-file and shuffles words by mimicking a Markov Chain Algorithm
