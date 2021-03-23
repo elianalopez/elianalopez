@@ -7,7 +7,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 ### Currently Working On 🚀
 
 * **Student Management System**
-  * Group Project for <a href = "https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python">CS-335</a> Course
+  * Group Project for <a href = "http://simmons.smartcatalogiq.com/en/2020-2021/Graduate-Course-Catalog/Graduate-Courses/CS-Computer-Science/300/CS-335">CS-335</a> Course
   * One of two developers in a team of 4
      * Implemented the login method
      * Utilized java.files.io to write and store student data in txt files
