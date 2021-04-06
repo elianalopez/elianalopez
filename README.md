@@ -14,8 +14,9 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 * *secret* 🤫
 
-* **Student Management System**
+* **Student Management System** | Repo Coming Soon 
   * Group Project for <a href = "http://simmons.smartcatalogiq.com/en/2020-2021/Graduate-Course-Catalog/Graduate-Courses/CS-Computer-Science/300/CS-335">CS-335</a> Course
+  * Written in Java
 
 ### Finished Works ✔️
 
