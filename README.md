@@ -1,4 +1,4 @@
-<img src="https://twitter.com/elianaIopez/header_photo" width="100%">
+<img src="https://pbs.twimg.com/profile_banners/1321094368875450368/1610574423/1500x500" width="100%">
 
 ### Hi there 👋
 
