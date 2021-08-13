@@ -8,27 +8,30 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 * **Data Structures Study Guide in Python** 📝 | <a href = "https://github.com/elianalopez/Data-Structures-and-Algorithms-Notes-with-Python"> GitHub</a>
 
-* **Website Portfolio** 💻
-
 * **Web Scrapping Projects with Python** 📜⛏️| <a href = "https://github.com/elianalopez/Web-Scraping-Projects-with-Python"> GitHub</a>
 
 * *secret* 🤫
 
-* **Student Management System** | Repo Coming Soon 
-  * Group Project for <a href = "http://simmons.smartcatalogiq.com/en/2020-2021/Graduate-Course-Catalog/Graduate-Courses/CS-Computer-Science/300/CS-335">CS-335</a> Course
+ Course
   * Written in Java
 
 ### Finished Works ✔️
-
-* **Raspi Car Project** 🍓🏎️ | <a href = "https://github.com/elianalopez/RaspiCar-Project"> GitHub</a> 
-  * Redesigned an RC Car toy car with the Raspberry Pi  and a Motor Drive Board Module to control motors via a Python program
-  * Launched a webserver user interface that controls the car motors and live streams the PiCam with the Python **Flask** library 
-  * Integrated languages such as Python 3.0, HTML, CSS, and Raspberry Pi for this project 
 
 * **Instapup - The Instagram Puppy Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Instapup"> GitHub</a> 
   * Utilized the **Beautiful Soup** library to continuously webscrape photos of dogs from Google Images every 300 seconds
   * Utilized the **instabot** library to connect and randomly choose a photo of a dog to upload
   * Created a cleaner function to remove photos that were chosen by the instabot every 300 seconds
+
+* **Raspi Car Project** 🍓🏎️ | <a href = "https://github.com/elianalopez/RaspiCar-Project"> GitHub</a> 
+  * Redesigned an RC Car toy car with the Raspberry Pi  and a Motor Drive Board Module to control motors via a Python program
+  * Launched a webserver user interface that controls the car motors and live streams the PiCam with the Python **Flask** library 
+  * Integrated languages such as Python 3.0, HTML, CSS, and Raspberry Pi for this project 
+  * 
+* **Student Management System** | <a href = "https://github.com/elianalopez/CS335-Student-Management-System"> GitHub</a> 
+  * Group Project for <a href = "http://simmons.smartcatalogiq.com/en/2020-2021/Graduate-Course-Catalog/Graduate-Courses/CS-Computer-Science/300/CS-335">CS-335</a>
+  * Implemented functions that would store user data, user-login, and created a main menu directory for the command line
+  * Implemented back-end functionality on GUIs created with the Java Swing Framework
+  * Learned and followed agile based methodologies and overview progress in weekly sprints
 
 * **Markov Chain Text Generator** 🔗 | <a href = "https://github.com/elianalopez/Markov-Chains-Text-Generator"> GitHub</a> 
   * Designed a random text generator that reads a given text-file and shuffles words by mimicking a Markov Chain Algorithm
