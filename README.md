@@ -27,7 +27,7 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
   * Launched a webserver user interface that controls the car motors and live streams the PiCam with the Python **Flask** library 
   * Integrated languages such as Python 3.0, HTML, CSS, and Raspberry Pi for this project 
   * 
-* **Student Management System** | <a href = "https://github.com/elianalopez/CS335-Student-Management-System"> GitHub</a> 
+* **Student Management System** 🏫 💻 | <a href = "https://github.com/elianalopez/CS335-Student-Management-System"> GitHub</a> 
   * Group Project for <a href = "http://simmons.smartcatalogiq.com/en/2020-2021/Graduate-Course-Catalog/Graduate-Courses/CS-Computer-Science/300/CS-335">CS-335</a>
   * Implemented functions that would store user data, user-login, and created a main menu directory for the command line
   * Implemented back-end functionality on GUIs created with the Java Swing Framework
