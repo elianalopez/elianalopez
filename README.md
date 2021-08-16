@@ -12,9 +12,6 @@ My name is Eliana Lopez and I am a student studying mathematics, however I enjoy
 
 * *secret* 🤫
 
- Course
-  * Written in Java
-
 ### Finished Works ✔️
 
 * **Instapup - The Instagram Puppy Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Instapup"> GitHub</a> 
