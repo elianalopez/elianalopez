@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Eliana Lopez and I am a student studying mathematics, however I enjoy the mathematical applications behind programming!
+My name is Eliana Lopez and I recently graduated with a major in mathematics and a double minor in economics and computer science, however I enjoy the mathematical applications behind programming!
 
 ### Currently Working On 🚀
 
