@@ -60,6 +60,8 @@ My name is Eliana Lopez and I recently graduated with a major in mathematics and
 ## Connect With Me:
 <a href="https://www.linkedin.com/in/eliana-idalys-lopez"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: eliana.idalys.lopez@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://twitter.com/elianaIopez"><img src="https://simpleicons.org/icons/twitter.svg" width = "40px" height = "40px"></a> 
 
+![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
+
 
 <!--
 **elianalopez/elianalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,7 +83,6 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/elianaIopez">Twitter 🐣</a>
 
-![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
 ## Just for fun!
 ![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
 
