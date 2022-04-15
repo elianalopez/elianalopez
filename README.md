@@ -51,7 +51,7 @@ My name is Eliana Lopez and I recently graduated with a major in mathematics and
 
     
 ### Programming Languages & Skills
-<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="50" height = "55" > &nbsp; <img src="https://wiki.sei.cmu.edu/confluence/download/thumbnails/88042725/C%20Logo.png?version=1&modificationDate=1527685155000&api=v2" width="60" height = "60" ><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="35" height = "60"> &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="60" height = "60"> &nbsp; <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1610118638" width="60" height="60"> 
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="50" height = "55" > &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="35" height = "60"> &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="60" height = "60"> &nbsp; <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1610118638" width="60" height="60"> 
 
 
 ## Connect With Me:
