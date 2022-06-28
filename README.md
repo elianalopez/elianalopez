@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href = "mailto: eliana.idalys.lopez@gmail.com">Email 💌</a>
+<a href = "mailto: eliana.lopez@gatech.edu">Email 💌</a>
 
 <a href="https://www.linkedin.com/in/eliana-idalys-lopez">LinkedIn 💼</a>
 
