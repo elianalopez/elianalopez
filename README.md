@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Eliana Lopez and I recently graduated with a major in mathematics and a double minor in economics and computer science, however I enjoy the mathematical applications behind programming!
+My name is Eliana Lopez and in undergrad I majored in mathematics and a double minor in economics and computer science, however I enjoy the mathematical applications behind programming! Pursuing a Master of Science in Computer Science at Georgia Tech. 
 
 ### Currently Working On 🚀
 
