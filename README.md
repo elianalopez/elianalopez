@@ -1,5 +1,5 @@
 <!--<img src="https://pbs.twimg.com/profile_banners/1321094368875450368/1610574423/1500x500" width="100%">-->
-
+<!--
 ### Hi there 👋
 
 My name is Eliana Lopez and in undergrad I majored in mathematics and a double minor in economics and computer science, however I enjoy the mathematical applications behind programming! I am currently pursuing a Master of Science in Computer Science at Georgia Tech while working full-time as a software engineer. 
@@ -81,5 +81,5 @@ Here are some ideas to get you started:
 ![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact)](https://github.com/elianalopez/github-readme-stats)
-
+-->
 -->
