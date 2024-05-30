@@ -6,6 +6,10 @@ I am a dedicated Software Engineer with over 3 years of experience. I graduated 
 
 With a strong foundation in software engineering and mathematics, I am proficient in designing and implementing complex algorithms, optimizing performance, and deploying applications in dynamic environments. As a proactive learner, I am constantly exploring new technologies and methodologies to enhance my skill set.
 
+### Writing 📝 
+
+I am an avid writer for computer science and tech-related topics on Medium, where I share insights and experiences from my professional journey and explore the latest trends and technologies in the field.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact)](https://github.com/elianalopez/github-readme-stats)
 
 ## Connect With Me:
