@@ -6,6 +6,18 @@ I am a dedicated Software Engineer with over 3 years of experience. I graduated 
 
 With a strong foundation in software engineering and mathematics, I am proficient in designing and implementing complex algorithms, optimizing performance, and deploying applications in dynamic environments. As a proactive learner, I am constantly exploring new technologies and methodologies to enhance my skill set.
 
+### Featured Works ✔️
+
+* **Instapup - The Instagram Puppy Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Instapup"> GitHub</a> 
+  * Utilized the **Beautiful Soup** library to continuously webscrape photos of dogs from Google Images every 300 seconds
+  * Utilized the **instabot** library to connect and randomly choose a photo of a dog to upload
+  * Created a cleaner function to remove photos that were chosen by the instabot every 300 seconds
+
+* **Raspi Car Project** 🍓🏎️ | <a href = "https://github.com/elianalopez/RaspiCar-Project"> GitHub</a> 
+  * Redesigned an RC Car toy car with the Raspberry Pi  and a Motor Drive Board Module to control motors via a Python program
+  * Launched a webserver user interface that controls the car motors and live streams the PiCam with the Python **Flask** library 
+  * Integrated languages such as Python 3.0, HTML, CSS, and Raspberry Pi for this project 
+
 ### Writing 📝 
 
 I am an avid writer for computer science and tech-related topics on Medium, where I share insights and experiences from my professional journey and explore the latest trends and technologies in the field.
