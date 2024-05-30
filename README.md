@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
+I am a dedicated Software Engineer with over 3 years of experience. I graduated with a Bachelor's of Science in Mathematics and recently obtained a Master's of Science in Computer Science. My career has been focused on developing robust and high-performance software applications.
+
+With a strong foundation in software engineering and mathematics, I am proficient in designing and implementing complex algorithms, optimizing performance, and deploying applications in dynamic environments. As a proactive learner, I am constantly exploring new technologies and methodologies to enhance my skill set.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact)](https://github.com/elianalopez/github-readme-stats)
 
