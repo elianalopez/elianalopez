@@ -2,12 +2,15 @@
 
 ### Hi there 👋
 
-### Programming Languages & Skills
-<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="50" height = "55" > &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="35" height = "60"> &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="60" height = "60"> &nbsp; <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1610118638" width="60" height="60"> 
+![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&theme=calm_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact)](https://github.com/elianalopez/github-readme-stats)
 
 ## Connect With Me:
-<a href="https://www.linkedin.com/in/eliana-idalys-lopez"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; <a href="mailto: eliana.lopez@gatech.edu"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://twitter.com/elianaIopez"><img src="https://simpleicons.org/icons/twitter.svg" width = "40px" height = "40px"></a> &nbsp; <a href="https://medium.com/@eliana.lopez"><img src="https://simpleicons.org/icons/medium.svg" width = "40px" height = "40px"></a>  &nbsp; <a href="https://leetcode.com/elianalopez/"><img src="https://simpleicons.org/icons/leetcode.svg" width = "40px" height = "40px"></a> 
+<a href="https://www.linkedin.com/in/eliana-idalys-lopez"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; 
+<a href="mailto: eliana.lopez@gatech.edu"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; 
+<a href="https://medium.com/@eliana.lopez"><img src="https://simpleicons.org/icons/medium.svg" width = "40px" height = "40px"></a>  &nbsp; 
+<a href="https://leetcode.com/elianalopez/"><img src="https://simpleicons.org/icons/leetcode.svg" width = "40px" height = "40px"></a> 
 
 <!--
 ### Hi there 👋
