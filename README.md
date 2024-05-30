@@ -6,7 +6,7 @@ I am a dedicated Software Engineer with over 3 years of experience. I graduated 
 
 With a strong foundation in software engineering and mathematics, I am proficient in designing and implementing complex algorithms, optimizing performance, and deploying applications in dynamic environments. As a proactive learner, I am constantly exploring new technologies and methodologies to enhance my skill set.
 
-### Featured Works ✔️
+### Featured Works ❤️‍🔥
 
 * **Instapup - The Instagram Puppy Generator** 📷🐶 | <a href = "https://github.com/elianalopez/Instapup"> GitHub</a> 
   * Utilized the **Beautiful Soup** library to continuously webscrape photos of dogs from Google Images every 300 seconds
@@ -21,6 +21,8 @@ With a strong foundation in software engineering and mathematics, I am proficien
 ### Writing 📝 
 
 I am an avid writer for computer science and tech-related topics on Medium, where I share insights and experiences from my professional journey and explore the latest trends and technologies in the field.
+
+### GitHub Stats 📈 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact)](https://github.com/elianalopez/github-readme-stats)
 
