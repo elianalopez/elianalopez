@@ -28,9 +28,8 @@ I am an avid writer for computer science and tech-related topics on Medium, wher
 
 ## Connect With Me:
 <a href="https://www.linkedin.com/in/eliana-idalys-lopez"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4bf96a236bac3b4f06617753cf16caa2542b8d9d/icons/linkedin.svg" width = "40px" height = "40px"></a> &nbsp; 
-<a href="mailto: eliana.lopez@gatech.edu"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; 
+<a href="mailto: eliana.idalys.lopez@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width = "40px" height = "40px"></a> &nbsp; 
 <a href="https://medium.com/@eliana.lopez"><img src="https://simpleicons.org/icons/medium.svg" width = "40px" height = "40px"></a>  &nbsp; 
-<a href="https://leetcode.com/elianalopez/"><img src="https://simpleicons.org/icons/leetcode.svg" width = "40px" height = "40px"></a> 
 
 <!--
 ### Hi there 👋
