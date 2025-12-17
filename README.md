@@ -3,7 +3,7 @@
 
 I’m Eliana — a **Software Engineer II** with 4+ years of experience building production‑grade internal platforms and data‑heavy web apps. I work across the stack with **TypeScript/Next.js, C#/.NET and PostgreSQL**, and I care a lot about performance, clean APIs, and UX‑driven engineering. 
 
-I also enjoy exploring **machine learning and computer vision** through projects and graduate study.
+I also enjoy exploring **machine learning** and **computer vision** through projects and graduate study.
 
 ### Featured Projects 🚀
 
@@ -34,14 +34,6 @@ I write about software engineering, machine learning, and technical growth on **
 
 <!-- Top languages: distribution of languages across your public repos -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elianalopez&layout=compact&theme=tokyonight)](https://github.com/elianalopez/github-readme-stats)
-
-<!-- Overall contributions and repository statistics -->
-[![Eliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianalopez&show_icons=true&theme=tokyonight)](https://github.com/elianalopez/github-readme-stats)
-
-<!-- Optional: Contribution streak stats (uncomment if you want to display it) -->
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elianalopez&theme=tokyonight)](https://github.com/elianalopez)
--->
 
 ### Connect With Me 🌐
 
