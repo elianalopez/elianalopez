@@ -7,11 +7,11 @@ I also enjoy exploring **machine learning and computer vision** through projects
 
 ### Featured Projects 🚀
 
-* **TeamPose** ⚽📊 – a Python computer‑vision toolkit for estimating team possession from video  
+* **PossessionNet (still in progress)** ⚽📊 – a Python computer‑vision toolkit for estimating team possession from video  
   * Modular possession‑estimation pipeline using OpenCV & NumPy  
   * Reproducible video metadata extraction, timeline sampling & research‑friendly design  
   * Emphasis on testing, CI and documentation  
-  * 🔗 [GitHub](https://github.com/elianalopez/teampose)
+  * 🔗 [GitHub](https://github.com/elianalopez/possessionnet)
 
 * **Instapup – the Instagram Puppy Generator** 📷🐶  
   * Web‑scraped images using **BeautifulSoup**  
